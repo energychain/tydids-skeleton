@@ -1,0 +1,25 @@
+{
+  "name": "tydids-skeleton",
+  "version": "1.0.0",
+  "description": "Skeleton for TyDIDs Projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/energychain/tydids-skeleton.git"
+  },
+  "keywords": [
+    "stromdao"
+  ],
+  "author": "STROMDAO GmbH <dev@stromdao.com>",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/energychain/tydids-skeleton/issues"
+  },
+  "homepage": "https://github.com/energychain/tydids-skeleton#readme",
+  "dependencies": {
+    "tydids": "^1.0.0"
+  }
+}
